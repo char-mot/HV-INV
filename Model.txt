@@ -1,0 +1,6 @@
+#Number of layers included the half-space
+#Thickness [m]  #Vp [m/s]  #Vs [m/s]  #Density [kg/m3] 
+3
+   10.00   500.00   200.00  1500.00
+   10.00   500.00   200.00  1500.00
+    0.00  1000.00   500.00  2500.00
